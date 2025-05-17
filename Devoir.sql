@@ -1,16 +1,5 @@
                                  /*Devoir Num 01 Bdd*/
  
- 
- /*
- Nom: Azzaz
- Prenom: Yasser
- Matricule: 232331624113
- Section: ISIL C
- Groupe: 03
- */
-
-
-/* 1. Création des tables Médecin , Consultation , Patient et Prescription : */
 
 CREATE TABLE Medecin (
     NumMedecin INT PRIMARY KEY,

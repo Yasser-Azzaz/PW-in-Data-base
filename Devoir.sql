@@ -1,4 +1,4 @@
-   11                     /*Devoir Num 01 Bdd*/
+   11                    /*Devoir Num 01 Bdd*/
  
 
 CREATE TABLE Medecin (

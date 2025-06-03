@@ -1,4 +1,4 @@
-yyy   /*Devoir Num 01 Bdd*/
+yy   /*Devoir Num 01 Bdd*/
  
 
 CREATE TABLE Medecin (

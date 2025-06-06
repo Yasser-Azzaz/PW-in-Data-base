@@ -1,4 +1,4 @@
-[ 1234  /*Devoir Num 01 Bdd*/
+[ 123  /*Devoir Num 01 Bdd*/
  
 
 CREATE TABLE Medecin (

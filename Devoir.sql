@@ -1,5 +1,4 @@
-s  /*Devoir Num 01 Bdd*/
- sas
+
 
 CREATE TABLE Medecin (
     NumMedecin INT PRIMARY KEY,

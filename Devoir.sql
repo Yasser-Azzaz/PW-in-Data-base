@@ -1,4 +1,4 @@
-
+COMM
 
 CREATE TABLE Medecin (
     NumMedecin INT PRIMARY KEY,
